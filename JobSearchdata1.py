@@ -1,15 +1,3 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy.stats import zscore
-import plotly.express as px
-import sweetviz as sv
-import ydata
-import dtale
-import streamlit as st
-import matplotlib.pyplot as plt
-
 
 # Load the dataset
 CJA = pd.read_csv('Cleaned.csv')  # Ensure this file exists in your directory
