@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn 
+zscore
+plotly.express 
+dtale
+streamlit 
+
