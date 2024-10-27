@@ -1,5 +1,8 @@
 numpy
 pandas
-matplotlib 
+matplotlib
+seaborn
+scipy
 plotly
-
+dtale
+streamlit
