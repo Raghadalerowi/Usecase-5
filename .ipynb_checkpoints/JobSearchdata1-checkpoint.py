@@ -14,7 +14,7 @@ CJA = pd.read_csv('Cleaned.csv')  # Ensure this file exists in your directory
 st.title("Unveiling the Job Market: Insights for Job Seekers in Saudi Arabia")
 
 # Add an image
-st.image('C:/Users/queen/Desktop/Tuwaiqs/Dailyprojects/Usecase-5/a1.jpg', caption='', use_column_width=True)
+st.image('a1.jpg', caption='', use_column_width=True)
 
 # Set Streamlit theme using markdown
 st.markdown(
@@ -90,7 +90,7 @@ else:
     st.error("The 'comp_type' column is not present in the dataset.")
 
 # Add an image
-st.image('C:/Users/queen/Desktop/Tuwaiqs/Dailyprojects/Usecase-5/a2.jpg', caption='', use_column_width=True)
+st.image('a2.jpg', caption='', use_column_width=True)
 
 
 # Conclusion
