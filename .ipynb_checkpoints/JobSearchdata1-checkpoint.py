@@ -8,6 +8,7 @@ import sweetviz as sv
 import ydata
 import dtale
 import streamlit as st
+import matplotlib.pyplot as plt
 
 
 # Load the dataset
